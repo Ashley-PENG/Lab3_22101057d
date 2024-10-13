@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bubble Milk Tea",
+        "type": "Classic Drinks",
+        "price": "$30 (S), $35 (M), $40 (L)",
+        "image": "assets/bubble-milktea.jpg"
+    },
+    {
+        "name": "Iced Latte",
+        "type": "Coffee",
+        "price": "$30 (S), $35 (M), $40 (L)",
+        "image": "assets/iced-latte.jpg"
+    },
+    {
+        "name": "Americano",
+        "type": "Coffee",
+        "price": "$20 (S), $25 (M), $30 (L)",
+        "image": "assets/americano.jpg"
+    }
+]
